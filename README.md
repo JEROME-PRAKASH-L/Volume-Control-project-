@@ -8,10 +8,10 @@ The required libraries are:
   
 The installation command is [windows]:
 
-  pip install opencv-python
+  pip install opencv
   
   pip install numpy
-pip install opencv-python
+
   
   pip install comtypes
   
@@ -23,4 +23,5 @@ pip install opencv-python
 The given program assumes that u have a pre-existing model for detecting hand that is named as "handdetector".
 If u aldready don't have a detector model, built or download it first and then run the volume control program.
 
-The model can be dowloaded at https://github.com/DarkFalcon12/hand-detection
+by 
+Jerome Prakash 
