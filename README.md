@@ -19,9 +19,7 @@ The installation command is [windows]:
 
 
 
-**NOTE**:
-The given program assumes that u have a pre-existing model for detecting hand that is named as "handdetector".
-If u aldready don't have a detector model, built or download it first and then run the volume control program.
+
 
 by 
 Jerome Prakash 
